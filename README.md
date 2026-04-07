@@ -1,10 +1,4 @@
-i like to code
-
-damn im basic as hell
-
-my only language is python 
-
-(gdscript my beloved is still python)
+Godot developer, anti-ai.
 
 
 <!---
